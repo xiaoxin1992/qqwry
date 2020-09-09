@@ -1,4 +1,4 @@
-module gihub.com/xiaoxin1992/qqwry/v1
+module gihub.com/xiaoxin1992/qqwry
 
 go 1.15
 
